@@ -23,7 +23,7 @@ include:
     shield: forager_dongle prospector_adapter
   - board: seeeduino_xiao_ble
     shield: forager_left rgbled_adapter
-    snippet: studio-rpc-usb-uarT
+#    snippet: studio-rpc-usb-uarT
   - board: seeeduino_xiao_ble
     shield: forager_right rgbled_adapter
   - board: seeeduino_xiao_ble
